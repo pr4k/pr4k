@@ -1,6 +1,6 @@
 ### Hi Prakhar here 👋
 
-![About me](https://github.com/pr4k/pr4k/blob/master/gh-cover-pr4k.png)
+![About me](https://github.com/pr4k/pr4k/blob/master/gh-cover.png)
 
 Took a lot of time to create ![pointing](https://github.com/pr4k/pr4k/blob/master/pointing.svg)
 , Everything is there but still let me tell again.
