@@ -10,7 +10,7 @@ its Docs.
 
 A huge fan of open source, Currently developing End to End Solutions for Enterprises using Chatbots :)
 
-## ![bow](<[bow.svg](https://github.com/pr4k/pr4k/blob/master/bow.svg)>) Also a Freelancer Hire me at:
+## ![bow](https://github.com/pr4k/pr4k/blob/master/bow.svg) Also a Freelancer Hire me at:
 
 ![@](https://github.com/pr4k/pr4k/blob/master/attherate.svg) <a href = https://www.freelancer.com/u/Prakhark19> Freelancer </a> <br>
 
