@@ -1,32 +1,27 @@
 ### Hi Prakhar here 👋
 
-![About me](gh-cover-pr4k.png)
+![About me](https://github.com/pr4k/pr4k/blob/master/gh-cover-pr4k.png)
 
-Took a lot of time to create ![pointing](pointing.svg)
+Took a lot of time to create ![pointing](https://github.com/pr4k/pr4k/blob/master/pointing.svg)
 , Everything is there but still let me tell again.
 
-A Developer who spends half of the project time in experimenting the languages and other half in reading 
-its  Docs.
+A Developer who spends half of the project time in experimenting the languages and other half in reading
+its Docs.
 
-A huge fan of open source, Currently developing End to End Solutions for Enterprises using Chatbots :) 
+A huge fan of open source, Currently developing End to End Solutions for Enterprises using Chatbots :)
 
+## ![bow](<[bow.svg](https://github.com/pr4k/pr4k/blob/master/bow.svg)>) Also a Freelancer Hire me at:
 
-[bow](bow.svg) Also a Freelancer Hire me at:
----
+![@](https://github.com/pr4k/pr4k/blob/master/attherate.svg) <a href = https://www.freelancer.com/u/Prakhark19> Freelancer </a> <br>
 
+![@](https://github.com/pr4k/pr4k/blob/master/attherate.svg) <a href = https://www.fiverr.com/prakharkaushik> Fiverr </a>
 
-![@](attherate.svg) <a href = https://www.freelancer.com/u/Prakhark19> Freelancer </a> <br>
-
-![@](attherate.svg) <a href = https://www.fiverr.com/prakharkaushik> Fiverr </a>
-
-
-
-🌱 I’m ~~currently~~ Always learning and exploring the 
+🌱 I’m ~~currently~~ Always learning and exploring the
 Github Trending page.
 
 ---
 
-## 📫 Ping me at: 
+## 📫 Ping me at:
 
 - [Twitter](https://twitter.com/me_prakhar)
 
