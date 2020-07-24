@@ -33,7 +33,7 @@ Github Trending page.
 
 - [StackOverflow](https://stackoverflow.com/users/10425600/prakhar-kaushik)
 
-- [Personal Blog](pr4k.github.io)
+- [Personal Blog](https://pr4k.github.io/)
 
 ---
 
