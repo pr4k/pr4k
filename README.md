@@ -12,6 +12,11 @@ I am a  ***Backend developer** turned **NLP Engineer***, who spends half of the 
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Use My Terminal as a Webcam](https://medium.com/better-programming/how-i-use-my-terminal-as-a-webcam-b706ccc9d216?source=rss-cd1db4b63ce1------2)
+- [Github Action for Auto Publishing My Articles from Hugo blog to Medium](https://dev.to/pr4k/github-action-for-auto-publishing-my-articles-from-hugo-blog-to-medium-1801)
+- [How I Use My Terminal as a Webcam](https://dev.to/pr4k/how-i-use-my-terminal-as-a-webcam-2e60)
+- [Open-CV Based Sudoku Solver Powered By Rust](https://towardsdatascience.com/open-cv-based-sudoku-solver-powered-by-rust-df256653d5b3?source=rss-cd1db4b63ce1------2)
+- [Locate: A Recursive Search Tool - RUST](https://dev.to/pr4k/locate-a-recursive-search-tool-rust-18if)
 <!-- BLOG-POST-LIST:END -->
 
 ---
