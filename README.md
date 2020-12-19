@@ -26,6 +26,10 @@ Github Trending page.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Github Action for Auto Publishing My Articles from Hugo blog to Medium](https://dev.to/pr4k/github-action-for-auto-publishing-my-articles-from-hugo-blog-to-medium-1801)
+- [How I Use My Terminal as a Webcam](https://dev.to/pr4k/how-i-use-my-terminal-as-a-webcam-2e60)
+- [Locate: A Recursive Search Tool - RUST](https://dev.to/pr4k/locate-a-recursive-search-tool-rust-18if)
+- [How I use Stackoverflow from Terminal - Go](https://dev.to/pr4k/how-i-use-stackoverflow-from-terminal-go-4jo5)
 <!-- BLOG-POST-LIST:END -->
 
 ## Wanna Know More About ME
