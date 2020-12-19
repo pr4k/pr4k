@@ -24,6 +24,10 @@ Github Trending page.
 
 ---
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## Wanna Know More About ME
 
 - [My Resume](https://pr4k.github.io/assets/Prakhar_CV.pdf)
