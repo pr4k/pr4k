@@ -3,21 +3,18 @@
 I am a  ***Backend developer** turned **NLP Engineer***, who spends half of the project time in experimenting the languages and other half in reading its Docs.
 
 
+
 - A huge fan of open source, 
 - ~~Currently~~ Always learning and exploring the Github Trending page.
-
 - Currently developing End to End Cloud Based Solutions for Enterprises :v:
-
 - ⚡ Fun fact: I :heart: :dog:s :)
 
----
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 ---
-
 ## Wanna Know More About ME
 
 - [My Resume](https://pr4k.github.io/assets/Prakhar_CV.pdf)
