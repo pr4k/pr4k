@@ -12,11 +12,11 @@ I am a  ***Backend developer** turned **NLP Engineer***, who spends half of the 
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Going Forward With Neo Vim as a Daily Driver](https://medium.com/better-programming/going-forward-with-neo-vim-as-a-daily-driver-8624489d0143?source=rss-cd1db4b63ce1------2)
-- [How I Use My Terminal as a Webcam](https://medium.com/better-programming/how-i-use-my-terminal-as-a-webcam-b706ccc9d216?source=rss-cd1db4b63ce1------2)
+- [Going Forward With Neo Vim as a Daily Driver](https://betterprogramming.pub/going-forward-with-neo-vim-as-a-daily-driver-8624489d0143?source=rss-cd1db4b63ce1------2)
+- [How I Use My Terminal as a Webcam](https://betterprogramming.pub/how-i-use-my-terminal-as-a-webcam-b706ccc9d216?source=rss-cd1db4b63ce1------2)
 - [Open-CV Based Sudoku Solver Powered By Rust](https://towardsdatascience.com/open-cv-based-sudoku-solver-powered-by-rust-df256653d5b3?source=rss-cd1db4b63ce1------2)
-- [Locate: A Recursive Search Tool Written In Rust](https://medium.com/better-programming/locate-a-recursive-search-tool-6e497d0134ba?source=rss-cd1db4b63ce1------2)
-- [How to Create a GitHub Action to Upload Posts From Hugo to Medium](https://medium.com/better-programming/how-to-create-a-github-action-to-upload-posts-from-hugo-to-medium-6a2a5ba9818e?source=rss-cd1db4b63ce1------2)
+- [Locate: A Recursive Search Tool Written In Rust](https://betterprogramming.pub/locate-a-recursive-search-tool-6e497d0134ba?source=rss-cd1db4b63ce1------2)
+- [How to Create a GitHub Action to Upload Posts From Hugo to Medium](https://betterprogramming.pub/how-to-create-a-github-action-to-upload-posts-from-hugo-to-medium-6a2a5ba9818e?source=rss-cd1db4b63ce1------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
