@@ -24,6 +24,7 @@ I am a  ***Backend developer** turned **NLP Engineer***, who spends half of the 
 
 - [My Resume](https://pr4k.github.io/assets/Prakhar_CV.pdf)
 - [My Blog](https://pr4k.github.io)
+- [My Newsletter](https://theblurcode.substack.com/?r=a1cng&utm_campaign=pub-share-checklist)
 
 <p align='center'>
  <a href = https://twitter.com/me_prakhar><img height="30" src = "twitter.svg" ></a> &nbsp;&nbsp;  <a href = https://www.linkedin.com/in/pr4k><img height="30" src = "linkedin.svg" ></a> &nbsp;&nbsp;  <a href = https://join.skype.com/invite/oZkUaPq8hsnw><img height="30" src = "skype.svg" ></a> &nbsp;&nbsp; <a href = https://t.me/Prakharkaushik><img height="30" src = "telegram.svg" ></a> &nbsp;&nbsp; <a href = https://www.instagram.com/prakhar.kaush><img height="30" src = "instagram.svg" ></a> &nbsp;&nbsp;  <a href = https://medium.com/@pr4k><img height="30" src = "medium.svg" ></a> &nbsp;&nbsp; <a href = https://www.freelancer.in/u/Prakhark19><img height="30" src = "freelancer.com.svg" ></a> &nbsp;&nbsp;   
