@@ -1,14 +1,14 @@
 ## Hi Prakhar here <a href="https://pr4k.github.io/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-I am a  ***Backend developer** turned **NLP Engineer***, who spends half of the project time in experimenting the languages and other half in reading its Docs.
+Welcome to my GitHub profile! I am a passionate Innovator, constantly seeking new challenges and pushing the boundaries of technology. With a strong background in product development and coding, I strive to create impactful solutions that drive business growth and enhance user experiences.
 
+## 🔭 Current Focus
 
-
-- A huge fan of open source, 
-- ~~Currently~~ Always learning and exploring the Github Trending page.
-- Currently developing End to End Cloud Based Solutions for Enterprises :v:
+- Leading product strategy and roadmap development to align with organizational goals.
+- Collaborating with cross-functional teams to ensure successful product launches and iterations.
+- Writing clean, efficient code to develop robust software solutions.
+- Exploring emerging technologies and their potential applications.
 - ⚡ Fun fact: I :heart: :dog:s :)
-
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
